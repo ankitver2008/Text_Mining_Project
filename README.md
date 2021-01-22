@@ -11,6 +11,7 @@ Objective:
 
 Result:
 
+text mining was done using python NLTK library. The 
 Two corpora were created where there was a deal and where there was no deal. There after a word cloud was formed and it was indeed the case that entrepreneurs who introduced devices
 are less likely to secure a deal.
 
